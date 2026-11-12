@@ -33,7 +33,6 @@ void application::intro()
             std::cin.ignore(10000, '\n');
             continue;
         }
-
         if (choice == 1)
         {
             std::string name;
