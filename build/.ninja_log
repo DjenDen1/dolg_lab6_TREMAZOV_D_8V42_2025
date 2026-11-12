@@ -1,0 +1,11 @@
+# ninja log v7
+29	726	8161640301536373	CMakeFiles/proto_app.dir/extended_sources/primitive_models/Square.cpp.obj	37b59da02be8d5fa
+35	806	8161640301607141	CMakeFiles/proto_app.dir/extended_sources/primitive_models/Triangle.cpp.obj	b1deeded8696b409
+24	860	8161640301486395	CMakeFiles/proto_app.dir/extended_sources/primitive_models/Circle.cpp.obj	8eedbf1806130421
+20	1712	8161640301446369	CMakeFiles/proto_app.dir/extended_sources/primitive_models/Sample_primitive.cpp.obj	a7290b10fbb3498e
+33	1526	8161642414477305	CMakeFiles/proto_app.dir/main.cpp.obj	6162abb8d1cb7568
+52	1799	8161642414667184	CMakeFiles/proto_app.dir/extended_sources/view.cpp.obj	8a5aafcd9eade839
+43	2081	8161642414577197	CMakeFiles/proto_app.dir/extended_sources/storage_document.cpp.obj	b85fd24cf047aa45
+49	2147	8161642414637185	CMakeFiles/proto_app.dir/extended_sources/Controller.cpp.obj	847bc957c58c30cb
+37	2707	8161642414527179	CMakeFiles/proto_app.dir/extended_sources/sample_document.cpp.obj	8629ade579371a6a
+2707	2932	8161642441216558	proto_app.exe	8247f0c9e5e2856a

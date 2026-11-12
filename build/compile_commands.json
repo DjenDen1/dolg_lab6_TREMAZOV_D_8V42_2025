@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\main.cpp.obj -c C:\\CPP2025\\lab6_new2\\main.cpp",
+  "file": "C:/CPP2025/lab6_new2/main.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\sample_document.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\sample_document.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/sample_document.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/sample_document.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\storage_document.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\storage_document.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/storage_document.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/storage_document.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\primitive_models\\Sample_primitive.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\primitive_models\\Sample_primitive.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/primitive_models/Sample_primitive.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/primitive_models/Sample_primitive.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\primitive_models\\Circle.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\primitive_models\\Circle.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/primitive_models/Circle.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/primitive_models/Circle.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\primitive_models\\Square.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\primitive_models\\Square.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/primitive_models/Square.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/primitive_models/Square.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\primitive_models\\Triangle.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\primitive_models\\Triangle.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/primitive_models/Triangle.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/primitive_models/Triangle.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\Controller.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\Controller.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/Controller.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/Controller.cpp.obj"
+},
+{
+  "directory": "C:/CPP2025/lab6_new2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++20 -o CMakeFiles\\proto_app.dir\\extended_sources\\view.cpp.obj -c C:\\CPP2025\\lab6_new2\\extended_sources\\view.cpp",
+  "file": "C:/CPP2025/lab6_new2/extended_sources/view.cpp",
+  "output": "C:/CPP2025/lab6_new2/build/CMakeFiles/proto_app.dir/extended_sources/view.cpp.obj"
+}
+]
